@@ -1,0 +1,17 @@
+﻿id_local,id,tipo,modalidade,nome,latitude,longitude
+0,0,deposito,oleo_vegetal,6º DLU,-22.897922265394115,-43.10050198704539
+1,1,cliente,ecoponto,"Rua Irineu Marinho, nº 466, esquina com Avenida Ary Parreiras",-22.909205398117738,-43.103855975568045
+2,4,cliente,ecoponto,,-22.914192440573103,-43.08312768248368
+3,6,cliente,itinerante,Praça do Ingá,-22.904171532604348,-43.12247321267227
+4,8,cliente,itinerante,Praça de Jurujuba,-22.931525806830997,-43.11619859608256
+5,10,cliente,itinerante,Praça de São Francisco (atrás do Colégio Nª Senhora da Assunção),-22.922067164805373,-43.09195237142005
+6,12,cliente,oleo_vegetal,1º DLU,-22.887113365647675,-43.11797969564204
+7,13,cliente,oleo_vegetal,2º DLU,-22.86373671257327,-43.0990784218341
+8,15,cliente,oleo_vegetal,4º DLU,-22.909658327369023,-43.104270382476756
+9,17,cliente,oleo_vegetal,7º DLU,-22.9058435576435,-43.06367742564003
+10,18,cliente,oleo_vegetal,8º DLU,-22.885053025759287,-43.063160591661735
+11,20,cliente,oleo_vegetal,10º DLU,-22.908108880499142,-42.9855454376521
+12,22,cliente,oleo_vegetal,14º DLU,-22.900759393490112,-43.13198115874341
+13,23,cliente,eletronico,RF SOM Assistência Técnica,-22.897969843710346,-43.1031178620465
+14,26,cliente,eletronico,Instituto Rumo Náutico - Projeto Grael,-22.934262933848753,-43.10974447973237
+15,27,cliente,eletronico,InoveCell,-22.907237323576943,-43.110094246264445

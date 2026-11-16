@@ -1,0 +1,12 @@
+﻿id_local,id,tipo,modalidade,nome,latitude,longitude
+0,0,deposito,oleo_vegetal,6º DLU,-22.897922265394115,-43.10050198704539
+1,2,cliente,ecoponto,"Rua João Brasil, s/nº, em frente à Policlínica",-22.872564650153567,-43.0944398339177
+2,3,cliente,ecoponto,,-22.9148581399416,-43.094484155632436
+3,5,cliente,itinerante,"Largo do Marrão (Em frente ao 6º DLU – Rua Américo Oberlander, nº15, Santa Rosa)",-22.897956967287744,-43.100475492472235
+4,8,cliente,itinerante,Praça de Jurujuba,-22.931525806830997,-43.11619859608256
+5,12,cliente,oleo_vegetal,1º DLU,-22.887113365647675,-43.11797969564204
+6,17,cliente,oleo_vegetal,7º DLU,-22.9058435576435,-43.06367742564003
+7,19,cliente,oleo_vegetal,9º DLU,-22.938811585815536,-43.06755446843343
+8,21,cliente,oleo_vegetal,11º DLU,-22.96263862364607,-43.03406499102072
+9,25,cliente,eletronico,Eletrônica JOHENPESS,-22.899239318726885,-43.10361922570559
+10,27,cliente,eletronico,InoveCell,-22.907237323576943,-43.110094246264445

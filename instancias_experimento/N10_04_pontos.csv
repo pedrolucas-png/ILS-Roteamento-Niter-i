@@ -1,0 +1,12 @@
+﻿id_local,id,tipo,modalidade,nome,latitude,longitude
+0,0,deposito,oleo_vegetal,6º DLU,-22.897922265394115,-43.10050198704539
+1,2,cliente,ecoponto,"Rua João Brasil, s/nº, em frente à Policlínica",-22.872564650153567,-43.0944398339177
+2,4,cliente,ecoponto,,-22.914192440573103,-43.08312768248368
+3,6,cliente,itinerante,Praça do Ingá,-22.904171532604348,-43.12247321267227
+4,7,cliente,itinerante,Projeto GRAEL(Jurujuba),-22.934206381881868,-43.10977175314322
+5,12,cliente,oleo_vegetal,1º DLU,-22.887113365647675,-43.11797969564204
+6,17,cliente,oleo_vegetal,7º DLU,-22.9058435576435,-43.06367742564003
+7,21,cliente,oleo_vegetal,11º DLU,-22.96263862364607,-43.03406499102072
+8,22,cliente,oleo_vegetal,14º DLU,-22.900759393490112,-43.13198115874341
+9,24,cliente,eletronico,Coopercanit,-22.898163521622173,-43.12176548798084
+10,25,cliente,eletronico,Eletrônica JOHENPESS,-22.899239318726885,-43.10361922570559

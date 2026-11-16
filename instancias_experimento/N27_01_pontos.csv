@@ -1,0 +1,29 @@
+﻿id_local,id,tipo,modalidade,nome,latitude,longitude
+0,0,deposito,oleo_vegetal,6º DLU,-22.897922265394115,-43.10050198704539
+1,1,cliente,ecoponto,"Rua Irineu Marinho, nº 466, esquina com Avenida Ary Parreiras",-22.909205398117738,-43.103855975568045
+2,2,cliente,ecoponto,"Rua João Brasil, s/nº, em frente à Policlínica",-22.872564650153567,-43.0944398339177
+3,3,cliente,ecoponto,,-22.9148581399416,-43.094484155632436
+4,4,cliente,ecoponto,,-22.914192440573103,-43.08312768248368
+5,5,cliente,itinerante,"Largo do Marrão (Em frente ao 6º DLU – Rua Américo Oberlander, nº15, Santa Rosa)",-22.897956967287744,-43.100475492472235
+6,6,cliente,itinerante,Praça do Ingá,-22.904171532604348,-43.12247321267227
+7,7,cliente,itinerante,Projeto GRAEL(Jurujuba),-22.934206381881868,-43.10977175314322
+8,8,cliente,itinerante,Praça de Jurujuba,-22.931525806830997,-43.11619859608256
+9,9,cliente,itinerante,Praça de Santa Bárbara,-22.876278734541415,-43.04861655864562
+10,10,cliente,itinerante,Praça de São Francisco (atrás do Colégio Nª Senhora da Assunção),-22.922067164805373,-43.09195237142005
+11,11,cliente,oleo_vegetal,Cootranit,-22.923689406455853,-43.00585841348864
+12,12,cliente,oleo_vegetal,1º DLU,-22.887113365647675,-43.11797969564204
+13,13,cliente,oleo_vegetal,2º DLU,-22.86373671257327,-43.0990784218341
+14,14,cliente,oleo_vegetal,3º DLU,-22.881767352427932,-43.09105018947266
+15,15,cliente,oleo_vegetal,4º DLU,-22.909658327369023,-43.104270382476756
+16,16,cliente,oleo_vegetal,5º DLU,-22.91482218598796,-43.09407627232743
+17,17,cliente,oleo_vegetal,7º DLU,-22.9058435576435,-43.06367742564003
+18,18,cliente,oleo_vegetal,8º DLU,-22.885053025759287,-43.063160591661735
+19,19,cliente,oleo_vegetal,9º DLU,-22.938811585815536,-43.06755446843343
+20,20,cliente,oleo_vegetal,10º DLU,-22.908108880499142,-42.9855454376521
+21,21,cliente,oleo_vegetal,11º DLU,-22.96263862364607,-43.03406499102072
+22,22,cliente,oleo_vegetal,14º DLU,-22.900759393490112,-43.13198115874341
+23,23,cliente,eletronico,RF SOM Assistência Técnica,-22.897969843710346,-43.1031178620465
+24,24,cliente,eletronico,Coopercanit,-22.898163521622173,-43.12176548798084
+25,25,cliente,eletronico,Eletrônica JOHENPESS,-22.899239318726885,-43.10361922570559
+26,26,cliente,eletronico,Instituto Rumo Náutico - Projeto Grael,-22.934262933848753,-43.10974447973237
+27,27,cliente,eletronico,InoveCell,-22.907237323576943,-43.110094246264445

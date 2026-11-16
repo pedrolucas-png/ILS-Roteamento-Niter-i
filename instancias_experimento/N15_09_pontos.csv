@@ -1,0 +1,17 @@
+﻿id_local,id,tipo,modalidade,nome,latitude,longitude
+0,0,deposito,oleo_vegetal,6º DLU,-22.897922265394115,-43.10050198704539
+1,1,cliente,ecoponto,"Rua Irineu Marinho, nº 466, esquina com Avenida Ary Parreiras",-22.909205398117738,-43.103855975568045
+2,4,cliente,ecoponto,,-22.914192440573103,-43.08312768248368
+3,7,cliente,itinerante,Projeto GRAEL(Jurujuba),-22.934206381881868,-43.10977175314322
+4,8,cliente,itinerante,Praça de Jurujuba,-22.931525806830997,-43.11619859608256
+5,10,cliente,itinerante,Praça de São Francisco (atrás do Colégio Nª Senhora da Assunção),-22.922067164805373,-43.09195237142005
+6,11,cliente,oleo_vegetal,Cootranit,-22.923689406455853,-43.00585841348864
+7,12,cliente,oleo_vegetal,1º DLU,-22.887113365647675,-43.11797969564204
+8,14,cliente,oleo_vegetal,3º DLU,-22.881767352427932,-43.09105018947266
+9,16,cliente,oleo_vegetal,5º DLU,-22.91482218598796,-43.09407627232743
+10,17,cliente,oleo_vegetal,7º DLU,-22.9058435576435,-43.06367742564003
+11,18,cliente,oleo_vegetal,8º DLU,-22.885053025759287,-43.063160591661735
+12,20,cliente,oleo_vegetal,10º DLU,-22.908108880499142,-42.9855454376521
+13,23,cliente,eletronico,RF SOM Assistência Técnica,-22.897969843710346,-43.1031178620465
+14,25,cliente,eletronico,Eletrônica JOHENPESS,-22.899239318726885,-43.10361922570559
+15,27,cliente,eletronico,InoveCell,-22.907237323576943,-43.110094246264445

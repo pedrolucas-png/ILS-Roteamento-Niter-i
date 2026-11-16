@@ -1,0 +1,12 @@
+﻿id_local,id,tipo,modalidade,nome,latitude,longitude
+0,0,deposito,oleo_vegetal,6º DLU,-22.897922265394115,-43.10050198704539
+1,1,cliente,ecoponto,"Rua Irineu Marinho, nº 466, esquina com Avenida Ary Parreiras",-22.909205398117738,-43.103855975568045
+2,2,cliente,ecoponto,"Rua João Brasil, s/nº, em frente à Policlínica",-22.872564650153567,-43.0944398339177
+3,7,cliente,itinerante,Projeto GRAEL(Jurujuba),-22.934206381881868,-43.10977175314322
+4,9,cliente,itinerante,Praça de Santa Bárbara,-22.876278734541415,-43.04861655864562
+5,11,cliente,oleo_vegetal,Cootranit,-22.923689406455853,-43.00585841348864
+6,14,cliente,oleo_vegetal,3º DLU,-22.881767352427932,-43.09105018947266
+7,16,cliente,oleo_vegetal,5º DLU,-22.91482218598796,-43.09407627232743
+8,21,cliente,oleo_vegetal,11º DLU,-22.96263862364607,-43.03406499102072
+9,26,cliente,eletronico,Instituto Rumo Náutico - Projeto Grael,-22.934262933848753,-43.10974447973237
+10,27,cliente,eletronico,InoveCell,-22.907237323576943,-43.110094246264445

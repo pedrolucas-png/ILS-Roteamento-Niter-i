@@ -1,0 +1,22 @@
+﻿id_local,id,tipo,modalidade,nome,latitude,longitude
+0,0,deposito,oleo_vegetal,6º DLU,-22.897922265394115,-43.10050198704539
+1,1,cliente,ecoponto,"Rua Irineu Marinho, nº 466, esquina com Avenida Ary Parreiras",-22.909205398117738,-43.103855975568045
+2,3,cliente,ecoponto,,-22.9148581399416,-43.094484155632436
+3,4,cliente,ecoponto,,-22.914192440573103,-43.08312768248368
+4,5,cliente,itinerante,"Largo do Marrão (Em frente ao 6º DLU – Rua Américo Oberlander, nº15, Santa Rosa)",-22.897956967287744,-43.100475492472235
+5,7,cliente,itinerante,Projeto GRAEL(Jurujuba),-22.934206381881868,-43.10977175314322
+6,8,cliente,itinerante,Praça de Jurujuba,-22.931525806830997,-43.11619859608256
+7,9,cliente,itinerante,Praça de Santa Bárbara,-22.876278734541415,-43.04861655864562
+8,11,cliente,oleo_vegetal,Cootranit,-22.923689406455853,-43.00585841348864
+9,12,cliente,oleo_vegetal,1º DLU,-22.887113365647675,-43.11797969564204
+10,13,cliente,oleo_vegetal,2º DLU,-22.86373671257327,-43.0990784218341
+11,15,cliente,oleo_vegetal,4º DLU,-22.909658327369023,-43.104270382476756
+12,16,cliente,oleo_vegetal,5º DLU,-22.91482218598796,-43.09407627232743
+13,17,cliente,oleo_vegetal,7º DLU,-22.9058435576435,-43.06367742564003
+14,18,cliente,oleo_vegetal,8º DLU,-22.885053025759287,-43.063160591661735
+15,21,cliente,oleo_vegetal,11º DLU,-22.96263862364607,-43.03406499102072
+16,22,cliente,oleo_vegetal,14º DLU,-22.900759393490112,-43.13198115874341
+17,24,cliente,eletronico,Coopercanit,-22.898163521622173,-43.12176548798084
+18,25,cliente,eletronico,Eletrônica JOHENPESS,-22.899239318726885,-43.10361922570559
+19,26,cliente,eletronico,Instituto Rumo Náutico - Projeto Grael,-22.934262933848753,-43.10974447973237
+20,27,cliente,eletronico,InoveCell,-22.907237323576943,-43.110094246264445

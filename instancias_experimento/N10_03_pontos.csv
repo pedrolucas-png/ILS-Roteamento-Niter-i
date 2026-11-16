@@ -1,0 +1,12 @@
+﻿id_local,id,tipo,modalidade,nome,latitude,longitude
+0,0,deposito,oleo_vegetal,6º DLU,-22.897922265394115,-43.10050198704539
+1,2,cliente,ecoponto,"Rua João Brasil, s/nº, em frente à Policlínica",-22.872564650153567,-43.0944398339177
+2,3,cliente,ecoponto,,-22.9148581399416,-43.094484155632436
+3,6,cliente,itinerante,Praça do Ingá,-22.904171532604348,-43.12247321267227
+4,8,cliente,itinerante,Praça de Jurujuba,-22.931525806830997,-43.11619859608256
+5,11,cliente,oleo_vegetal,Cootranit,-22.923689406455853,-43.00585841348864
+6,13,cliente,oleo_vegetal,2º DLU,-22.86373671257327,-43.0990784218341
+7,15,cliente,oleo_vegetal,4º DLU,-22.909658327369023,-43.104270382476756
+8,20,cliente,oleo_vegetal,10º DLU,-22.908108880499142,-42.9855454376521
+9,26,cliente,eletronico,Instituto Rumo Náutico - Projeto Grael,-22.934262933848753,-43.10974447973237
+10,27,cliente,eletronico,InoveCell,-22.907237323576943,-43.110094246264445

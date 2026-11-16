@@ -1,0 +1,17 @@
+﻿id_local,id,tipo,modalidade,nome,latitude,longitude
+0,0,deposito,oleo_vegetal,6º DLU,-22.897922265394115,-43.10050198704539
+1,2,cliente,ecoponto,"Rua João Brasil, s/nº, em frente à Policlínica",-22.872564650153567,-43.0944398339177
+2,4,cliente,ecoponto,,-22.914192440573103,-43.08312768248368
+3,6,cliente,itinerante,Praça do Ingá,-22.904171532604348,-43.12247321267227
+4,7,cliente,itinerante,Projeto GRAEL(Jurujuba),-22.934206381881868,-43.10977175314322
+5,10,cliente,itinerante,Praça de São Francisco (atrás do Colégio Nª Senhora da Assunção),-22.922067164805373,-43.09195237142005
+6,12,cliente,oleo_vegetal,1º DLU,-22.887113365647675,-43.11797969564204
+7,16,cliente,oleo_vegetal,5º DLU,-22.91482218598796,-43.09407627232743
+8,17,cliente,oleo_vegetal,7º DLU,-22.9058435576435,-43.06367742564003
+9,19,cliente,oleo_vegetal,9º DLU,-22.938811585815536,-43.06755446843343
+10,20,cliente,oleo_vegetal,10º DLU,-22.908108880499142,-42.9855454376521
+11,21,cliente,oleo_vegetal,11º DLU,-22.96263862364607,-43.03406499102072
+12,22,cliente,oleo_vegetal,14º DLU,-22.900759393490112,-43.13198115874341
+13,24,cliente,eletronico,Coopercanit,-22.898163521622173,-43.12176548798084
+14,26,cliente,eletronico,Instituto Rumo Náutico - Projeto Grael,-22.934262933848753,-43.10974447973237
+15,27,cliente,eletronico,InoveCell,-22.907237323576943,-43.110094246264445
